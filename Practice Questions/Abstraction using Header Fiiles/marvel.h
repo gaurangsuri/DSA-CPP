@@ -1,0 +1,1 @@
+std::string superhero[7]={"HULK","IRON MAN","CAP","SPIDERMAN","DOC STRANGE","HAWK","THANOS"};
